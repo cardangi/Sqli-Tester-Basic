@@ -1,0 +1,3 @@
+Testar se a url é vulneravel a injeção de SQL básica (you have an error in your sql syntax)
+
+

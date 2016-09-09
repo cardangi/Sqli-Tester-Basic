@@ -1,0 +1,31 @@
+Bem vindo a lista de comandos // Argumentos
+
+
+###########################################
+#                 ARGUMENTOS E            #   
+#                   COMANDOS              #
+###########################################
+
+
+-definir
+
+Define um alvo para checar se é Injeção de sql. Não são salvos LOGS.
+
+
+-definirVarios
+
+Define dois alvos para checar se é vulneravel a injeção sql. Não são salvos LOGS.
+
+-definir -LOG
+
+Salva num .txt o site com a falha, e qual a provável falha.
+
+
+-ajuda
+
+Lê o commands.txt apartir do programa.
+
+
+
+# Eu sei que ficou uma bosta, então por favor, pega leve nas criticas, eh nois #
+
