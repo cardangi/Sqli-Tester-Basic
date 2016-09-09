@@ -18,6 +18,10 @@ Operational Systems who this software works fine.
 #urllib3 (folder)
 An module who i've used to connect with the internet/browser... 
 
+#Cexploit.py
+The python file/the sql inject file...
+
+
 Why im posting here : I want TIPS, like : "What i did wrong?" "How can i improve" if you can help me, please, i really want your help, thx!;
 
 //////////////////////////////////////////////////////
@@ -41,5 +45,8 @@ Explica o uso do programa.
 
 #urllib3
 Pasta do modulo urllib3, que usei para conectar com o browser/sockets...
+
+#Cexploit.py
+O programa em si, parte principal, ".py"
 
 Porque postei no GIT : Preciso de dicas sobre como melhorar, e o que eu fiz errado, se puderem ajudar, fico grato ;)
