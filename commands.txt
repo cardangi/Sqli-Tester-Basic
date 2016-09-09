@@ -1,3 +1,24 @@
+Welcome to the command/argv list.
+
+
+-definir
+
+Defines your target, to check if it's compatible to basic SQL Inject. Didn't save LOGS. Just appear in the windows-prompt/ terminal if it's compatible
+
+-definirVarios
+Defines more than 1 target, to check if they are compatible to basic SQL Inject. Didn't save LOGS. Just appear in the windows-prompt/terminal if it's compatible
+
+-definir -LOG
+Defines your target, to check if it's compatible to basic SQL Inject, but saves LOGS in a TXT file.
+
+-ajuda
+Read the commands.txt INSIDE the program, in a windows-prompt/terminal
+
+
+
+
+__________________PT/BR ______________
+
 Bem vindo a lista de comandos // Argumentos
 
 
@@ -9,23 +30,23 @@ Bem vindo a lista de comandos // Argumentos
 
 -definir
 
-Define um alvo para checar se È InjeÁ„o de sql. N„o s„o salvos LOGS.
+Define um alvo para checar se √© Inje√ß√£o de sql. N√£o s√£o salvos LOGS.
 
 
 -definirVarios
 
-Define dois alvos para checar se È vulneravel a injeÁ„o sql. N„o s„o salvos LOGS.
+Define dois alvos para checar se √© vulneravel a inje√ß√£o sql. N√£o s√£o salvos LOGS.
 
 -definir -LOG
 
-Salva num .txt o site com a falha, e qual a prov·vel falha.
+Salva num .txt o site com a falha, e qual a prov√°vel falha.
 
 
 -ajuda
 
-LÍ o commands.txt apartir do programa.
+L√™ o commands.txt apartir do programa.
 
 
 
-# Eu sei que ficou uma bosta, ent„o por favor, pega leve nas criticas, eh nois #
+# Eu sei que ficou uma bosta, ent√£o por favor, pega leve nas criticas, eh nois #
 
